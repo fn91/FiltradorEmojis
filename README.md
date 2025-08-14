@@ -1,0 +1,2 @@
+# FiltradorEmojis
+Filtrar
